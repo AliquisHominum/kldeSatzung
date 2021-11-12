@@ -11,8 +11,15 @@ Das Abstimmungsrecht bleibt unangetastet.
 (4) Grundsätzlich tagt der Parteitag öffentlich.
 Auf Antrag von 10% der anwesenden Stimmberechtigten wird über die Zulassung der Öffentlichkeit abgestimmt.
 
+§ 1 a Wahl der Versammlungsleitung und der Wahlkommission
+(1) Die Versammlungsleitung besteht aus drei Mitgliedern der Klimaliste Deutschland.
+(2) Bewerbungen auf die Position der Versammlungsleitung sind vor Beginn der Sitzung per E-Mail an die vom Vorstand genutzte E-Mail-Adresse sowie per Zuruf während der Sitzung möglich.
+(3) Anschließend wird ohne Aussprache eine Abstimmung über die Versammlungsleitung durchgeführt. Jedes Mitglied hat dabei drei Stimmen. Gewählt sind die drei Personen, die die meisten Stimmen auf sich vereinen. Können diese Personen nicht eindeutig bestimmt werden, finden notwendige Stichwahlen statt.
+(4) Die Versammlungsleitung bestimmt aus ihrer Mitte eine:n Schriftführer:in.
+(5) Die Absätze 1 bis 4 gelten für Wahlkommissionen analog, so lange die betreffenden Wahlkommissionen keine Wahlen durchführt, die Organe der Bundespartei oder das Schiedsgericht besetzen.
+
 § 2 Anträge
-(1) Die Anträge werden an den Vorstand per E-Mail an die vom Vorstand genutzte E-Mail Adresse oder per Post an die Parteiadresse gestellt.
+(1) Die Anträge werden an den Vorstand per E-Mail an die vom Vorstand genutzte E-Mail Adresse oder per Post an die Parteiadresse gestellt. Alle Anträge, die innerhalb der Frist gestellt werden, werden den Mitgliedern spätestens 48 Stunden vor Beginn des Parteitages zugänglich gemacht.
 (2) Anträge, die nach Ablauf der Frist gestellt werden, gelten als Dringlichkeitsanträge.
 Am Parteitag wird über die Dringlichkeit des Antrages abgestimmt, wird diese bejaht, gilt der Antrag nachträglich als fristgerecht eingegangen.
 Dringlichkeitsanträge, die nach Eintritt in die Tagesordnung gestellt werden, werden zu Ende des Parteitages nach Reihenfolge des Eingangs behandelt.
@@ -31,12 +38,11 @@ Als Anträge zum Verfahren sind insbesondere, aber nicht ausschließlich, zuläs
 § 3 Abstimmungen
 (1) Die Abstimmungen des Bundesparteitages erfolgen offen, bei einer physischen Versammlung per Handzeichen und bei einer digitalen Versammlung mittels eines digitalen Konferenztools.
 Alle Teilnehmer:innen sind mit ihren personalisierten Zugangsdaten zu diesem Tool angemeldet.
-(2) Die Durchführung der Abstimmungen und Wahlen sowie die Feststellung des Ergebnisses geschieht durch eine Wahlkommission bestehend aus mindestens zwei Mitgliedern der Partei, die am Parteitag gewählt werden.
+(2) Die Durchführung der Abstimmungen und Wahlen sowie die Feststellung des Ergebnisses geschieht durch eine Wahlkommission bestehend aus drei Mitgliedern der Partei, die am Parteitag gewählt werden.
 Die Wahlkommission hat ihr Amt neutral zu erledigen.
 Die sonstigen Rechte der Mitglieder der Wahlkommission bleiben unberührt.
 Es ist zulässig, für verschiedene Abstimmungen und Wahlen verschiedene Wahlkomissionen einzusetzen.
-Es muss stets klar sein, für welche Abstimmungen und Wahlen eine Wahlkomission eingesetzt wird.
-Die Einsetzung geschieht nach § 4 der Wahlordnung.
+Es muss stets klar sein, für welche Abstimmungen und Wahlen welche Wahlkomission zuständig ist.
 (3) Jedes Mitglied kann bei jedem Antrag mit „Ja“, „Nein“ oder „Enthaltung“ stimmen.
 Bei digitalen Abstimmungen läuft eine Abstimmung ab Freigabe durch die Wahlkommission neunzig Sekunden.
 (4) Die (zuständige) Wahlkommission startet die Abstimmung, beendet diese und stellt das Ergebnis fest.
@@ -53,11 +59,13 @@ Dabei wird die Abstimmungszeit verdoppelt.
 Anträge, die mit mindestens einem anderen Antrag konfligieren, können kein Teil einer Blockabstimmung sein.
 
 § 4 Redebeiträge
-(1) Vor Abstimmung eines Antrags erhalten eine antragsstellende Person sowie weitere Personen das Recht zur Aussprache, um für oder gegen diesen Antrag zu argumentieren.
-Die zweite Rede muss eine Gegenrede sein.
-Die Versammlungsleitung muss Personen, die an zweiter Stelle keine Gegenrede vorbringen, das Rederecht entziehen.
-(2) Bei der Gegenrede sind die zu bevorzugen, die an diesem Parteitag noch keine Gegenrede zu einem ordentlichen Antrag (nicht Geschäftsordnungsantrag) gehalten haben.
-Diese Regelung gilt nicht bei Geschäftsordnungsanträgen.
+(1) Vor Abstimmung eines Antrags erhalten eine vom/von der Antragsteller:in bestimmte Person und danach drei weitere Personen das Recht zur Aussprache, um für oder gegen diesen Antrag zu argumentieren.
+Die zweite und dritte Rede muss eine Gegenrede sein, die letzte eine Rede für den Antrag.
+Die Versammlungsleitung muss Personen, die diese Bestimmung missachten, das Wort entziehen.
+(1a) Bei Anträgen zum Verfahren (Geschäftsordnungsanträge) erhält nur eine weitere Person das Recht zur Aussprache. Des Weiteren erhält die Sitzungsleitung das Recht, sich in der Sache zu äußern.
+(1b) Bis zum Beginn der ersten Rede durch den/die Antragsteller:in, mindestens aber bis fünf Minuten nach erstem Zugänglichmachen eines Antrages für die Mitglieder, können Mitglieder des Parteitages vor Beginn der Sitzung per E-Mail an den Vorstand oder während der Sitzung per Zuruf Redebeiträge für oder gegen einen Antrag angemelden. In der Anmeldung ist anzugeben, ob für oder gegen den Antrag gesprochen wird.
+(1c) Nach Ende der Anmeldefrist wählt die Versammlungsleitung zufällig und hinreichend gleichverteilt die Personen aus, die Redebeiträge halten dürfen. Das genaue Verfahren ist dem Parteitag vorzustellen und im Protokoll festzuhalten. Der Seed bleibt bis Ende der Sitzung geheim und wird anschließend bekannt gegeben.
+(2) <entfallen>
 (3) Die Versammlungsleitung kann unabhängig von Wortmeldungen das Wort ergreifen oder einer Person das Wort erteilen, um Vorschläge oder Erklärungen zum Verfahren abzugeben oder den Ablauf zu strukturieren (Moderation).
 Dieses Recht kann auf andere Mitglieder übertragen werden.
 (4) Redebeiträge sind in der Regel auf neunzig Sekunden begrenzt.
@@ -70,6 +78,10 @@ Weitere Redebeiträge sind unzulässig.
 § 5 Vertretung
 (1) Der Bundesparteitag wird zwischen den Versammlungen, insbesondere bei schiedsgerichtlichen Verfahren, durch den Vorstand vertreten, sofern der Bundesparteitag nicht mindestens drei besondere Vertreter:innen für diesen Zweck bestimmt.
 Besondere Vertreter:innen können höchstens für zwei Jahre bestimmt werden.
+
+§ 5a Besonderheiten bei digitaler Tagung
+(1) Bei digitaler Sitzung wird der Zuruf durch eine oder mehrere vom Vorstand bestimmte Kommunikationsmöglichkeiten ersetzt (z.B. E-Mail oder Chat-Software). Diese müssen zu Anfang der Sitzung vorgestellt werden.
+(2) Geheime Wahlen und Abstimmungen durch den Parteitag finden als Briefwahl im Anschluss zum Parteitag statt. Es ist eine eigene Wahlkommission für diese Briefwahl einzusetzen.
 
 § 6 Gültigkeit und Änderungen
 (1) Diese Geschäftsordnung kann auf Antrag mit einfacher Mehrheit geändert werden.
