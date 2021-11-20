@@ -14,7 +14,7 @@ Auf Antrag von 10% der anwesenden Stimmberechtigten wird über die Zulassung der
 § 1 a Wahl der Versammlungsleitung und der Wahlkommission
 (1) Die Versammlungsleitung besteht aus drei Mitgliedern der Klimaliste Deutschland.
 (2) Bewerbungen auf die Position der Versammlungsleitung sind vor Beginn der Sitzung per E-Mail an die vom Vorstand genutzte E-Mail-Adresse sowie per Zuruf während der Sitzung möglich.
-(3) Anschließend wird ohne Aussprache eine Abstimmung über die Versammlungsleitung durchgeführt. Jedes Mitglied hat dabei drei Stimmen. Gewählt sind die drei Personen, die die meisten Stimmen auf sich vereinen. Können diese Personen nicht eindeutig bestimmt werden, finden notwendige Stichwahlen statt.
+(3) Anschließend wird ohne Aussprache eine Abstimmung über die Versammlungsleitung durchgeführt. Jedes Mitglied hat dabei drei Stimmen. Gewählt sind die drei Personen, die die meisten Stimmen auf sich vereinen. Können diese Personen nicht eindeutig bestimmt werden, finden notwendige Stichwahlen statt. Die Wahlordnung findet für diese Wahlen keine Anwendung.
 (4) Die Versammlungsleitung bestimmt aus ihrer Mitte eine:n Schriftführer:in.
 (5) Die Absätze 1 bis 4 gelten für Wahlkommissionen analog, so lange die betreffenden Wahlkommissionen keine Wahlen durchführt, die Organe der Bundespartei oder das Schiedsgericht besetzen.
 
@@ -49,22 +49,22 @@ Bei digitalen Abstimmungen läuft eine Abstimmung ab Freigabe durch die Wahlkomm
 Dabei ist bei Vertreter:innenversammlungen das Abstimmverhalten allen Mitgliedern transparent zu machen.
 Dieses wird jedoch nicht namentlich extern veröffentlicht.
 (5) Die Versammlungsleitung kann beantragen, mehrere Anträge gemeinsam entweder anzunehmen oder abzulehnen.
-Wird diese Abstimmung angenommen, gelten alle Anträge des Blockes als angenommen bzw.
-abgelehnt.
+Wird diese Abstimmung angenommen, gelten alle Anträge des Blockes als angenommen bzw. abgelehnt.
 Wird diese Blockabstimmung abgelehnt, werden die Anträge einzeln oder in kleineren Blöcken abgestimmt.
 Diese Folgen der Abstimmung sind vor Beginn der Abstimmung ausführlich zu erläutern.
-(6) Bei mehreren Anträgen, die bei Annahme einen Widerspruch erzeugen, werden alle betreffenden Anträge nacheinander (bei digitaler Abstimmung: gleichzeitig) abgestimmt.
-Alle Anträge, die dabei mehr „Ja“- als „Nein“-Stimmen erhalten haben, werden darauffolgend wiederum gegeneinander abgestimmt, so lange, bis noch höchstens ein Antrag übrig bleibt.
-Dabei wird die Abstimmungszeit verdoppelt.
+(6) Bei mehreren Anträgen, die bei Annahme einen Widerspruch erzeugen, werden alle betreffenden Anträge nacheinander (bei digitaler Abstimmung: gleichzeitig) abgestimmt, um die Reihenfolge der Abstimmungen in der Sache zu bestimmen. Es ist zulässig, für keine, einen oder mehrere Anträge zu stimmen.
+Danach werden die Anträge in absteigender Reihenfolge der Ja-Stimmen in der Sache abgestimmt. Die Annahme eines Antrages bedeutet automatisch die Ablehnung aller noch nicht abgestimmter Anträge, die mit diesem Antrag in Konflikt stehen.
+Dieses Verfahren ist auf der Sitzung des Parteitages zu erläutern.
 Anträge, die mit mindestens einem anderen Antrag konfligieren, können kein Teil einer Blockabstimmung sein.
 
 § 4 Redebeiträge
 (1) Vor Abstimmung eines Antrags erhalten eine vom/von der Antragsteller:in bestimmte Person und danach drei weitere Personen das Recht zur Aussprache, um für oder gegen diesen Antrag zu argumentieren.
 Die zweite und dritte Rede muss eine Gegenrede sein, die letzte eine Rede für den Antrag.
 Die Versammlungsleitung muss Personen, die diese Bestimmung missachten, das Wort entziehen.
-(1a) Bei Anträgen zum Verfahren (Geschäftsordnungsanträge) erhält nur eine weitere Person das Recht zur Aussprache. Des Weiteren erhält die Sitzungsleitung das Recht, sich in der Sache zu äußern.
-(1b) Bis zum Beginn der ersten Rede durch den/die Antragsteller:in, mindestens aber bis fünf Minuten nach erstem Zugänglichmachen eines Antrages für die Mitglieder, können Mitglieder des Parteitages vor Beginn der Sitzung per E-Mail an den Vorstand oder während der Sitzung per Zuruf Redebeiträge für oder gegen einen Antrag angemelden. In der Anmeldung ist anzugeben, ob für oder gegen den Antrag gesprochen wird.
+(1a) Bei Anträgen zum Verfahren (Geschäftsordnungsanträge, abweichende Beschlüsse gemäß Wahlordnung, etc.) erhält nur eine weitere Person das Recht zur Aussprache. Des Weiteren erhält die Sitzungsleitung das Recht, sich in der Sache zu äußern.
+(1b) Bis zum Beginn der ersten Rede durch den/die Antragsteller:in, mindestens aber bis vier Minuten nach erstem Zugänglichmachen eines Antrages für die Mitglieder, können Mitglieder des Parteitages vor Beginn der Sitzung per E-Mail an den Vorstand oder während der Sitzung per Zuruf Redebeiträge für oder gegen einen Antrag anmelden. In der Anmeldung ist anzugeben, ob für oder gegen den Antrag gesprochen wird.
 (1c) Nach Ende der Anmeldefrist wählt die Versammlungsleitung zufällig und hinreichend gleichverteilt die Personen aus, die Redebeiträge halten dürfen. Das genaue Verfahren ist dem Parteitag vorzustellen und im Protokoll festzuhalten. Der Seed bleibt bis Ende der Sitzung geheim und wird anschließend bekannt gegeben.
+(1d) Abweichend von den Absätzen 1 und 1a kann die Sitzungsleitung die Anzahl Redebeiträge auch ohne Abstimmung bis zu verdoppeln. Die Pro- und Contraredebeiträge sind weiterhin ausgeglichen zu verteilen. Die Verteilung der Pro-/ Contra-Redebeiträge sowie die Anzahl der Redebeiträge ist rechtzeitig, spätestens bei Aufruf des Antrages, bekannt zu geben.
 (2) <entfallen>
 (3) Die Versammlungsleitung kann unabhängig von Wortmeldungen das Wort ergreifen oder einer Person das Wort erteilen, um Vorschläge oder Erklärungen zum Verfahren abzugeben oder den Ablauf zu strukturieren (Moderation).
 Dieses Recht kann auf andere Mitglieder übertragen werden.
@@ -80,7 +80,7 @@ Weitere Redebeiträge sind unzulässig.
 Besondere Vertreter:innen können höchstens für zwei Jahre bestimmt werden.
 
 § 5a Besonderheiten bei digitaler Tagung
-(1) Bei digitaler Sitzung wird der Zuruf durch eine oder mehrere vom Vorstand bestimmte Kommunikationsmöglichkeiten ersetzt (z.B. E-Mail oder Chat-Software). Diese müssen zu Anfang der Sitzung vorgestellt werden.
+(1) Bei digitaler Sitzung wird der Zuruf durch eine oder mehrere von der Sitzungsleitung bestimmte Kommunikationsmöglichkeiten ersetzt (z.B. E-Mail oder Chat-Software). Diese müssen zu Anfang der Sitzung vorgestellt werden.
 (2) Geheime Wahlen und Abstimmungen durch den Parteitag finden als Briefwahl im Anschluss zum Parteitag statt. Es ist eine eigene Wahlkommission für diese Briefwahl einzusetzen.
 
 § 6 Gültigkeit und Änderungen
